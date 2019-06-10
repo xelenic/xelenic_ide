@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xelenic IDE", "Xelenic IDE\Xelenic IDE.csproj", "{F83D5960-4B35-4954-BE80-58F9F51979CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F83D5960-4B35-4954-BE80-58F9F51979CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F83D5960-4B35-4954-BE80-58F9F51979CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F83D5960-4B35-4954-BE80-58F9F51979CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F83D5960-4B35-4954-BE80-58F9F51979CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A4045E8-AF96-4FE0-A64C-E627D90CF5FD}
+	EndGlobalSection
+EndGlobal
