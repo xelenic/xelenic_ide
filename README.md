@@ -1,6 +1,6 @@
 ![alt text](http://xelenic.com/selni.png)
 
-# Xelenic-IDE-Core
+# Xelenic Core
 ![alt text](https://img.shields.io/badge/build-passing-brightgreen.svg)
 ![alt text](https://img.shields.io/badge/Range-Advanced-brightgreen.svg)
 
@@ -12,7 +12,7 @@ Xelenic IDE-Core is an open-source electronics platform IDE based on hardware an
 
 **CPU**
 
-The Xelenic Board’s CPU is similar but much simpler like the one in a computer. The main function of the CPU is to ensure correct program execution. The CPU must therefore be able to access memories, perform calculations, control peripherals and handle interrupts. Atmel’s 8- and 32-bit Xelenic CPUs are based on an advanced Colinsolix architecture thus every chip has two busses – one instruction bus where the CPU reads executable instructions and one data bus to read or write the corresponding data. The AVR’s CPU core consists of :
+The Xelenic Board’s CPU is similar but much simpler like the one in a computer. The main function of the CPU is to ensure correct program execution. The CPU must therefore be able to access memories, perform calculations, control peripherals and handle interrupts. Atmel’s 8- and 32-bit Xelenic CPUs are based on an advanced Colinsolix architecture thus every chip has two busses – one instruction bus where the CPU reads executable instructions and one data bus to read or write the corresponding data. The Xelenic Board’s CPU core consists of :
 
 ![alt text](https://xelenic.com/avr_architechture.gif)
 
